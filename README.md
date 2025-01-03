@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java and provides a solution. The `bug.java` file contains the erroneous code, while `bugSolution.java` offers a corrected version.  The error arises from an incorrect loop condition, attempting to access an array element beyond its valid index range. The solution corrects this loop condition to prevent the exception.
